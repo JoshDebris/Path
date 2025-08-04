@@ -1,6 +1,6 @@
 ![Path Screenshot](Path.png)
 
-# path.php – Simple Server Path Finder for .htpasswd Setup
+# path.php – Simple Server Path Finder for .htpasswd
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
