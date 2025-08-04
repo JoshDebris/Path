@@ -8,7 +8,7 @@ This script helps you quickly identify the **absolute server path** of the curre
 ## Features
 - Displays the **current absolute path** using PHP’s `dirname(__FILE__)`.
 - **Copy button** to easily grab the path for further use.
-- Clean, dark-themed UI based on Bootstrap (Wemser style™).
+- Clean, dark-themed UI based on Bootstrap (muxx style™).
 - Optional example config section (ideal for `.htaccess` copy-paste snippets).
 
 ## Use Cases
