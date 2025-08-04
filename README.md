@@ -1,3 +1,4 @@
+![Path Screenshot](Path.png)
 
 # path.php – Simple Server Path Finder for .htpasswd Setup
 
